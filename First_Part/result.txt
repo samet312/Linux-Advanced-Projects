@@ -1,0 +1,22 @@
+Paul tarafından terminate edilen Instance'ların listesi
+ Kullanıcı Adı | Instance ID | İşlem
+
+1 | paul | i-00720a072f34cc926 | TerminateInstances
+2 | paul | i-00daa7084fb9a3184 | TerminateInstances
+3 | paul | i-0270f35ff88b1a463 | TerminateInstances
+4 | paul | i-02cc96085d703ea3c | TerminateInstances
+5 | paul | i-059d0d6ad4ec57ba0 | TerminateInstances
+6 | paul | i-0849c4ba801e1386a | TerminateInstances
+7 | paul | i-09a34d7033c4d8456 | TerminateInstances
+8 | paul | i-09ffc51dd8feb0cc0 | TerminateInstances
+9 | paul | i-0a4521808ab8da6dd | TerminateInstances
+10 | paul | i-0b4e71b6ec0128a57 | TerminateInstances
+11 | paul | i-0bb9d6d4d6123c841 | TerminateInstances
+12 | paul | i-0c127ab5cdf997cf4 | TerminateInstances
+13 | paul | i-0c5df63e5e88b3c77 | TerminateInstances
+14 | paul | i-0d8781df28b3bfce7 | TerminateInstances
+15 | paul | i-0ea92db42217ddad8 | TerminateInstances
+16 | paul | i-0ef67c3aebadf49f6 | TerminateInstances
+17 | paul | i-0f0a93e45a379660c | TerminateInstances
+
+Toplam: 17
